@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/16 11:57:43.000.566,=C:\Users\Robert\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2020/07/16 11:57:43.000.668,=C:\Users\Robert\Documents\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>2020/07/16 11:57:43.000.745,=C:\Users\Robert\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2020/09/30 11:33:58.000.021,=C:\Users\Robert\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/18 15:08:59.000.001,=C:\Users\Robert\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/18 15:12:22.000.050,C:\Users\Robert\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\teste trabalho\FrmPrincipal.pas</Transaction>
+    <Transaction>2021/07/18 15:12:22.000.050,C:\Users\Robert\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\teste trabalho\FrmPrincipal.dfm</Transaction>
+    <Transaction>2021/07/18 15:12:28.000.545,C:\Users\Robert\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\teste trabalho\ProvaDelphiApp.dproj</Transaction>
+    <Transaction>2021/07/18 15:19:26.000.479,=E:\teste trabalho\Unit2.pas</Transaction>
+    <Transaction>2021/07/18 15:19:44.000.953,E:\teste trabalho\Unit2.dfm=E:\teste trabalho\ufTarefa1.dfm</Transaction>
+    <Transaction>2021/07/18 15:19:44.000.949,E:\teste trabalho\Unit2.pas=E:\teste trabalho\ufTarefa1.pas</Transaction>
+    <Transaction>2021/07/18 15:33:56.000.815,=E:\teste trabalho\Components\uspQuery.pas</Transaction>
+    <Transaction>2021/07/18 15:35:56.000.051,=E:\teste trabalho\Unit2.pas</Transaction>
+    <Transaction>2021/07/18 15:36:25.000.382,E:\teste trabalho\ufTarefa2.dfm=E:\teste trabalho\Unit2.dfm</Transaction>
+    <Transaction>2021/07/18 15:36:25.000.382,E:\teste trabalho\ufTarefa2.pas=E:\teste trabalho\Unit2.pas</Transaction>
+    <Transaction>2021/07/18 16:01:56.000.566,=E:\teste trabalho\Unit2.pas</Transaction>
+    <Transaction>2021/07/18 16:02:14.000.081,E:\teste trabalho\ufTarefa3.dfm=E:\teste trabalho\Unit2.dfm</Transaction>
+    <Transaction>2021/07/18 16:02:14.000.081,E:\teste trabalho\ufTarefa3.pas=E:\teste trabalho\Unit2.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
